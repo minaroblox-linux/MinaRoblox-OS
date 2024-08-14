@@ -1,6 +1,6 @@
 from colorama import Fore, Back, Style
 import colorama
-from scripts.apps import App
+from apps import App
 
 # import colorama
 # start colorama
